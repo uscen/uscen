@@ -1,0 +1,28 @@
+hello there, i'm here to code or tinker with random things that interest me
+
+*things i believe in*
+- free and open source software
+- freedom
+
+*some cool projects*
+- [[https://github.com/uscen/leon.web][leon]] - a super creative & minimal agency web template.
+- [[https://github.com/uscen/kasper.web][kasper]] - a minimal agency web template make art.
+- [[https://github.com/uscen/fancy_counter.web][fancy_counter]] – a  simple minimal UI counter.
+- [[https://github.com/uscen/startup_page.web][startup_page]] – a minimalistic startpage that combines elegance with functionality.
+- [[https://github.com/uscen/kata_eight.js][kata_eight]] - a 100+ problems solved in javascript with different solutions.
+- [[https://github.com/uscen/portoflio.dev][portfolio]] - my good ol portfolio website made with next.js and org files.
+- [[https://github.com/shadowash8/yams][yams]] - a last.fm scrobbler for mpd (yet another mpd scrobbler).
+
+*linux-iy stuff*
+- [[https://github.com/uscen/way.dots][waydots]] - a super productive dotfiles for linux.
+- [[https://github.com/uscen/win.dots][windots]] - a super productive dotfiles for windows.
+- [[https://github.com/uscen/nvim.dots][nvim]] - a super constructive neovim config.
+- [[https://github.com/uscen/thorn.dots][thorn]] - a minimal green based colorscheme for all.
+- [[https://github.com/uscen/wall.dots][wall]] - a cool wallpapers from wallhaven.
+
+*important*
+#+BEGIN_QUOTE
+*freedom of the users and developers is being taken away*: after september google is going to stop users from side loading applications that are not "approved" by google or the signed up and paid google for the same.
+#+END_QUOTE
+
+please support the [[https://keepandroidopen.org][keepandroidopen.org]] movement to keep this platform free for everyone.
