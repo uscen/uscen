@@ -11,7 +11,6 @@ hello there, i'm here to code or tinker with random things that interest me
 - [[https://github.com/uscen/startup_page.web][startup_page]] – a minimalistic startpage that combines elegance with functionality.
 - [[https://github.com/uscen/kata_eight.js][kata_eight]] - a 100+ problems solved in javascript with different solutions.
 - [[https://github.com/uscen/portoflio.dev][portfolio]] - my good ol portfolio website made with next.js and org files.
-- [[https://github.com/shadowash8/yams][yams]] - a last.fm scrobbler for mpd (yet another mpd scrobbler).
 
 *linux-iy stuff*
 - [[https://github.com/uscen/way.dots][waydots]] - a super productive dotfiles for linux.
